@@ -1,0 +1,6 @@
+
+My apologies for the longer than normal function. Tried to follow all your other suggestions though.
+
+My du behavior is weird. I believe it has to do with chdir...
+
+No segfaults from what I can see (using valgrind) but I get a "Uninitialised value was created by a heap allocation" error? I have no clue was this is...
